@@ -1,2 +1,2 @@
-include ':app', ':shoppcar'
+include ':app', ':shoppcar', ':day_1_code', ':monthproject'
 rootProject.name='My Application'
